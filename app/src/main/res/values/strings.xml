@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="show_pet_button">Mostrar mascota</string>
+    <string name="opinion_text">Opinión</string>
+    <string name="page_link">Autores</string>
+    <string name="radio_button_1">Hermoso</string>
+    <string name="radio_button_2">Lindo</string>
+    <string name="radio_button_3">Normal</string>
+    <string name="radio_button_4">Horroroso</string>
+    <string name="send_button">Enviar</string>
+</resources>
